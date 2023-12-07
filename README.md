@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bgarvit01
-- 📫 How to reach me ... https://garvitbhateja.me
+
 
 <!---
 bgarvit01/bgarvit01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
